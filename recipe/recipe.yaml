@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.2.0"
+  version: "0.3.0"
 
 package:
   name: pixi-policy
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://github.com/aesir-oss/pixi-policy/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 27f5ffb4a4b512ff967ba8147f17bd7a0c6db8ccdcff421a19df7c4562ae4e4c
+  sha256: de7f916ef17ccdd4374524b4f040ada8701db8afc963ba2c4f0a4ac9f29fab1c
 
 build:
   number: 0
